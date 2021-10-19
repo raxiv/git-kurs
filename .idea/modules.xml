@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema.iml" group="Simple_Tic-Tac-Toe/Problems-Cinema" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_main.iml" group="Simple_Tic-Tac-Toe/Problems-Cinema" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_test.iml" group="Simple_Tic-Tac-Toe/Problems-Cinema" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Problems-Fill_the_matrix_by_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Problems-Fill_the_matrix_by_numbers.iml" group="Simple_Tic-Tac-Toe/Problems-Fill_the_matrix_by_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Problems-Fill_the_matrix_by_numbers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Problems-Fill_the_matrix_by_numbers_main.iml" group="Simple_Tic-Tac-Toe/Problems-Fill_the_matrix_by_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Problems-Fill_the_matrix_by_numbers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Problems-Fill_the_matrix_by_numbers_test.iml" group="Simple_Tic-Tac-Toe/Problems-Fill_the_matrix_by_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Problems-The_star_figure.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Problems-The_star_figure.iml" group="Simple_Tic-Tac-Toe/Problems-The_star_figure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Problems-The_star_figure_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Problems-The_star_figure_main.iml" group="Simple_Tic-Tac-Toe/Problems-The_star_figure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Problems-The_star_figure_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Problems-The_star_figure_test.iml" group="Simple_Tic-Tac-Toe/Problems-The_star_figure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Tic-Tac-Toe.iml" group="Simple_Tic-Tac-Toe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe-task.iml" group="Simple_Tic-Tac-Toe/Simple_Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe-task_main.iml" group="Simple_Tic-Tac-Toe/Simple_Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe-task_test.iml" group="Simple_Tic-Tac-Toe/Simple_Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Tic-Tac-Toe/util" />
+    </modules>
+  </component>
+</project>
