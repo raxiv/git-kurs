@@ -12,7 +12,7 @@ public class Main {
         String symbols = scanner.nextLine();
 
         char[] array = symbols.toCharArray();
-
+SFSF
         System.out.println("---------");
         System.out.println("| " + array[0] + " " + array[1]+ " " + array[2] + " |");
         System.out.println("| " + array[3] + " " + array[4]+ " " + array[5] + " |");
