@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TicTacToeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-07T19:14:14" hostname="DESKTOP-6CD7QAL" time="0.178">
+<testsuite name="TicTacToeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-20T18:44:44" hostname="DESKTOP-6CD7QAL" time="0.167">
   <properties/>
-  <testcase name="start" classname="TicTacToeTest" time="0.178"/>
+  <testcase name="start" classname="TicTacToeTest" time="0.167"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 > O_OXXO_XX
